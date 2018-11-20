@@ -7,7 +7,7 @@
 * jupyter-notebook
 
 # Data Preprocessing
-* Run following script before running the 
+* Run following script before running the Jupyter notebook
 	* source data-processing.sh
 * The script creates otc.csv which will be further processed on in the jupyter notebook code 
 
