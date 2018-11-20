@@ -9,7 +9,7 @@
 # Data Preprocessing
 * Run following script before running the 
 	* source data-processing.sh
-* The script creates otc.csv which will further processed on in the jupyter notebook code 
+* The script creates otc.csv which will be further processed on in the jupyter notebook code 
 
 # Running source code
 * Open the Link_prediction_Final.ipynb notebook in jupyter and execute cell by cell to verify the results
