@@ -18,8 +18,10 @@
 * warnings
 * jupyter-notebook
 
-* Gephi tool installation
+ Gephi tool installation
 
 
 # Running source code
-* Open the Link_prediction_Final.ipynb notebook in jupyter and execute cell by cell to verify the results
+
+* Open the "CMPE_256_Graph_parameters_Calculation_and_Evaluation.ipynb" and the cells to obtain various evaluation metrics on the graph dataset.
+* Open the "Community detection using Girvan Newman Algorithm Full.ipynb" notebook in jupyter and execute cell by cell to verify the community detection results
