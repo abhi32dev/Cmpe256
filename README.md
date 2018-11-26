@@ -18,7 +18,7 @@
 * warnings
 * jupyter-notebook
 
- Gephi tool installation
+ => Gephi tool installation
 
 
 # Running source code
