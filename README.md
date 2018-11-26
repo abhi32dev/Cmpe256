@@ -6,7 +6,7 @@
 
 # <-- Community Detection -->
 
-* # Prerequisite
+## Pre-requisite for Coding and visualization using Jupyter notebook
 * python3
 * matplitlib
 * numpy
@@ -18,7 +18,11 @@
 * warnings
 * jupyter-notebook
 
- => Gephi tool installation
+ ## Pre-requisite for Visualization using GEPHI
+ * Gephi tool installation
+ * Supported version of Java (Java 8 is recommended)
+ * Setup of requierd JAVA_PATH in in the system variable
+ 
 
 
 # Running source code
