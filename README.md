@@ -2,7 +2,7 @@
 
 # <-- Link Prediction -->
 
-* Please find the README.md in _Cmpe256/Edge_Link_Prediction_Algos/_ for detailed explanation on executing the source code
+* Please find the README.md in **Cmpe256/Edge_Link_Prediction_Algos/** for detailed explanation on executing the source code
 
 # <-- Community Detection -->
 
@@ -28,5 +28,5 @@
 
 # Running source code
 
-* Open the _CMPE_256_Graph_parameters_Calculation_and_Evaluation.ipynb_ and the cells to obtain various evaluation metrics on the graph dataset.
-* Open the *Community detection using Girvan Newman Algorithm Full.ipynb* notebook in jupyter and execute cell by cell to verify the community detection results
+* Open the **CMPE_256_Graph_parameters_Calculation_and_Evaluation.ipynb** and the cells to obtain various evaluation metrics on the graph dataset.
+* Open the **Community detection using Girvan Newman Algorithm Full.ipynb** notebook in jupyter and execute cell by cell to verify the community detection results
