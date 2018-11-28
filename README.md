@@ -21,7 +21,7 @@
  ## Pre-requisite for Visualization using GEPHI
  * Gephi tool installation
  * Supported version of Java (Java 8 is recommended)
- * Setup of requierd JAVA_PATH in in the system variable
+ * Setup of requierd JAVA_PATH in the system variable
  * Enabling the GPU is recommended (if available)
  
 
