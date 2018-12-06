@@ -18,7 +18,7 @@
 	* 1) The algorithm for fairness-goodness is used as it is from here. It is based on the paper [1]. 
 	* 2) The bias and deserve algorithm was implemented by us, referring paper[2].
 
-# Modules
+# Modules (Under construction)
 * The above code is made modular and can be ran individually as well
 * You can find the notebooks for the same under Modules/
 
